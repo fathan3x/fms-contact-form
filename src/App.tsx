@@ -56,7 +56,7 @@ export default function App() {
       className={cn(
         style["bg-green-200"],
         style["text-grey-900"],
-        "w-screen h-screen flex items-center font-['Karla_Variable'] p-6 relative",
+        "flex items-center font-['Karla_Variable'] p-6 relative",
       )}
     >
       <section className="p-8 bg-white rounded-lg space-y-6 w-3xl mx-auto">
